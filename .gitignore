@@ -1,0 +1,7 @@
+RedditWorkerServiceTests/
+RedditWorkerService/bin
+*secrets.json
+*appsettings.json
+*appsettings.development.json
+*token.json
+.vs/
