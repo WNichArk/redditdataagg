@@ -1,7 +1,9 @@
 RedditWorkerServiceTests/
 RedditWorkerService/bin
+RedditWorkerService/obj
 *secrets.json
 *appsettings.json
 *appsettings.development.json
 *token.json
+*launchsettings.json
 .vs/
